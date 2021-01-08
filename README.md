@@ -1,5 +1,14 @@
 # Amazon CloudFront Secure Static Website
 
+*****************************************
+
+LINK1: https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html#root-domain-walkthrough-add-arecord-to-hostedzone
+
+
+*****************************************
+
+
+
 Use this solution to create a secure static website for your registered domain name. With this solution, your website:
 
 - Is hosted on [Amazon S3](https://aws.amazon.com/s3/)
